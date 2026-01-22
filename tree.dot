@@ -1,0 +1,4 @@
+digraph G {
+	node [shape=circle];
+6 [3 [2, 5], 8 [null, 13 [9, null]]]
+}
